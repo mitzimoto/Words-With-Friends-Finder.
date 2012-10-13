@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 
 #------------------------------------------------------------------------------#
-# Script: wwf_finder.pl                                                        #
+# Script: findword.pl                                                          #
 #                                                                              #
 # Description: A tool to find possible words on a words with friends board that#
 #              match a given regex pattern and list them in order of highest   #
